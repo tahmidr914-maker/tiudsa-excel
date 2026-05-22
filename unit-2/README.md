@@ -11,7 +11,7 @@ Files / links
 SampleSuperstore 11.xlsx
 
 How to run / verify
-Open Sales_Analysis.xlsx
+SampleSuperstore 11.xlsx
 Check Summary sheet for all calculations
 Check Order Flag column (column S) in train sheet for High/Low labels
 
