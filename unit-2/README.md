@@ -8,7 +8,7 @@ Found highest and lowest sale using MAX and MIN
 Added Order Flag column using IF formula to label orders as High or Low
 
 Files / links
-Sales_Analysis.xlsx
+SampleSuperstore 11.xlsx
 
 How to run / verify
 Open Sales_Analysis.xlsx
